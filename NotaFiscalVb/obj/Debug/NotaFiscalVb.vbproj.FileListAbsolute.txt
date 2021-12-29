@@ -1,0 +1,13 @@
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\bin\Debug\NotaFiscalVb.exe.config
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\obj\Debug\NotaFiscalVb.Resources.resources
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\obj\Debug\NotaFiscalVb.vbproj.GenerateResource.Cache
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\bin\Debug\NotaFiscalVb.exe
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\bin\Debug\NotaFiscalVb.pdb
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\bin\Debug\NotaFiscalVb.xml
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\obj\Debug\NotaFiscalVb.exe
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\obj\Debug\NotaFiscalVb.xml
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\obj\Debug\NotaFiscalVb.pdb
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\obj\Debug\NotaFiscalVb.FrmExemplo.resources
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\obj\Debug\NotaFiscalVb.frmCancelamento.resources
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\obj\Debug\NotaFiscalVb.vbproj.AssemblyReference.cache
+C:\Desenvolvimento\NotaFiscalVb\NotaFiscalVb\obj\Debug\NotaFiscalVb.vbproj.CoreCompileInputs.cache

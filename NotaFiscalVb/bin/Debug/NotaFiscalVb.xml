@@ -1,0 +1,248 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NotaFiscalVb
+</name>
+</assembly>
+<members>
+<member name="T:NotaFiscalVb.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:NotaFiscalVb.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:NotaFiscalVb.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4.#ctor">
+<remarks/>
+</member>
+<member name="E:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4.nfeAutorizacaoLoteCompleted">
+<remarks/>
+</member>
+<member name="E:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4.nfeAutorizacaoLoteZipCompleted">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4.nfeAutorizacaoLote(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4.nfeAutorizacaoLoteAsync(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4.nfeAutorizacaoLoteAsync(System.Xml.XmlNode,System.Object)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4.nfeAutorizacaoLoteZip(System.String)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4.nfeAutorizacaoLoteZipAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4.nfeAutorizacaoLoteZipAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizacaoLote.NFeAutorizacao4.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.AutorizacaoLote.nfeAutorizacaoLoteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.AutorizacaoLote.nfeAutorizacaoLoteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:NotaFiscalVb.AutorizacaoLote.nfeAutorizacaoLoteCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.AutorizacaoLote.nfeAutorizacaoLoteZipCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.AutorizacaoLote.nfeAutorizacaoLoteZipCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:NotaFiscalVb.AutorizacaoLote.nfeAutorizacaoLoteZipCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4.#ctor">
+<remarks/>
+</member>
+<member name="E:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4.nfeAutorizacaoLoteCompleted">
+<remarks/>
+</member>
+<member name="E:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4.nfeAutorizacaoLoteZipCompleted">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4.nfeAutorizacaoLote(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4.nfeAutorizacaoLoteAsync(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4.nfeAutorizacaoLoteAsync(System.Xml.XmlNode,System.Object)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4.nfeAutorizacaoLoteZip(System.String)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4.nfeAutorizacaoLoteZipAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4.nfeAutorizacaoLoteZipAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.AutorizaLoteNFCe.NFeAutorizacao4.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.AutorizaLoteNFCe.nfeAutorizacaoLoteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.AutorizaLoteNFCe.nfeAutorizacaoLoteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:NotaFiscalVb.AutorizaLoteNFCe.nfeAutorizacaoLoteCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.AutorizaLoteNFCe.nfeAutorizacaoLoteZipCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.AutorizaLoteNFCe.nfeAutorizacaoLoteZipCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:NotaFiscalVb.AutorizaLoteNFCe.nfeAutorizacaoLoteZipCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RecepcaoEventoNFCe.NFeRecepcaoEvento4">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RecepcaoEventoNFCe.NFeRecepcaoEvento4.#ctor">
+<remarks/>
+</member>
+<member name="E:NotaFiscalVb.RecepcaoEventoNFCe.NFeRecepcaoEvento4.nfeRecepcaoEventoCompleted">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RecepcaoEventoNFCe.NFeRecepcaoEvento4.nfeRecepcaoEvento(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RecepcaoEventoNFCe.NFeRecepcaoEvento4.nfeRecepcaoEventoAsync(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RecepcaoEventoNFCe.NFeRecepcaoEvento4.nfeRecepcaoEventoAsync(System.Xml.XmlNode,System.Object)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RecepcaoEventoNFCe.NFeRecepcaoEvento4.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RecepcaoEventoNFCe.nfeRecepcaoEventoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RecepcaoEventoNFCe.nfeRecepcaoEventoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:NotaFiscalVb.RecepcaoEventoNFCe.nfeRecepcaoEventoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RecepcaoEvento.NFeRecepcaoEvento4">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RecepcaoEvento.NFeRecepcaoEvento4.#ctor">
+<remarks/>
+</member>
+<member name="E:NotaFiscalVb.RecepcaoEvento.NFeRecepcaoEvento4.nfeRecepcaoEventoCompleted">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RecepcaoEvento.NFeRecepcaoEvento4.nfeRecepcaoEvento(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RecepcaoEvento.NFeRecepcaoEvento4.nfeRecepcaoEventoAsync(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RecepcaoEvento.NFeRecepcaoEvento4.nfeRecepcaoEventoAsync(System.Xml.XmlNode,System.Object)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RecepcaoEvento.NFeRecepcaoEvento4.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RecepcaoEvento.nfeRecepcaoEventoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RecepcaoEvento.nfeRecepcaoEventoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:NotaFiscalVb.RecepcaoEvento.nfeRecepcaoEventoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RetAutorizacaoLoteNFCe.NFeRetAutorizacao4">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RetAutorizacaoLoteNFCe.NFeRetAutorizacao4.#ctor">
+<remarks/>
+</member>
+<member name="E:NotaFiscalVb.RetAutorizacaoLoteNFCe.NFeRetAutorizacao4.nfeRetAutorizacaoLoteCompleted">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RetAutorizacaoLoteNFCe.NFeRetAutorizacao4.nfeRetAutorizacaoLote(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RetAutorizacaoLoteNFCe.NFeRetAutorizacao4.nfeRetAutorizacaoLoteAsync(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RetAutorizacaoLoteNFCe.NFeRetAutorizacao4.nfeRetAutorizacaoLoteAsync(System.Xml.XmlNode,System.Object)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RetAutorizacaoLoteNFCe.NFeRetAutorizacao4.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RetAutorizacaoLoteNFCe.nfeRetAutorizacaoLoteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RetAutorizacaoLoteNFCe.nfeRetAutorizacaoLoteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:NotaFiscalVb.RetAutorizacaoLoteNFCe.nfeRetAutorizacaoLoteCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RetAutorizacaoLote.NFeRetAutorizacao4">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RetAutorizacaoLote.NFeRetAutorizacao4.#ctor">
+<remarks/>
+</member>
+<member name="E:NotaFiscalVb.RetAutorizacaoLote.NFeRetAutorizacao4.nfeRetAutorizacaoLoteCompleted">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RetAutorizacaoLote.NFeRetAutorizacao4.nfeRetAutorizacaoLote(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RetAutorizacaoLote.NFeRetAutorizacao4.nfeRetAutorizacaoLoteAsync(System.Xml.XmlNode)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RetAutorizacaoLote.NFeRetAutorizacao4.nfeRetAutorizacaoLoteAsync(System.Xml.XmlNode,System.Object)">
+<remarks/>
+</member>
+<member name="M:NotaFiscalVb.RetAutorizacaoLote.NFeRetAutorizacao4.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RetAutorizacaoLote.nfeRetAutorizacaoLoteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:NotaFiscalVb.RetAutorizacaoLote.nfeRetAutorizacaoLoteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:NotaFiscalVb.RetAutorizacaoLote.nfeRetAutorizacaoLoteCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>
